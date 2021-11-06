@@ -1,4 +1,4 @@
-# Booking.com'dan alınan otel yorumlarının makine öğrenmesi algoritmaları kullanılarak analiz edilmesi
+# booking.com'dan alınan otel yorumlarının makine öğrenmesi algoritmaları kullanılarak analiz edilmesi
 Kullanılan veri setinde otel isimleri, yorumlar ve 7 farklı kategoride (temizlik, personel, konum vs.) puanlar bulunmaktadır. 
 
 ## Amaç
